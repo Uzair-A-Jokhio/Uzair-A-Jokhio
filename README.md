@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working as a Backend Intern at Softech Digital using FastAPI <br>- 📚 I'm currently learning Machine Learning, MLOps, and Scalable Backend Development<br>- ⚡ In my free time, I explore open-source projects, build small AI tools, and sometimes travel 📷  <br>- 💡 Passionate about AI/ML, Data Science, and solving real-world problems through code<br>- 🧑‍💻 I’m open to collaborating on open-source projects and available for part-time or freelance work</p>
+<p align="left"> 🔭 I’m currently working as a Backend Intern, using FastAPI <br> 📚 I'm currently learning Machine Learning, MLOps, and Scalable Backend Development<br> ⚡ In my free time, I explore open-source projects, build small AI tools, and sometimes travel 📷  <br> 💡 Passionate about AI/ML, Data Science, and solving real-world problems through code<br> 🧑‍💻 I’m open to collaborating on open-source projects and available for part-time or freelance work</p>
 
 ###
 
@@ -49,7 +49,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <img width="12" />
